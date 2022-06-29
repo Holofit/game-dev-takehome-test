@@ -1,4 +1,4 @@
-### RECREATE THE HUNTABLE SYSTEM
+## RECREATE THE HUNTABLE SYSTEM
 
 Huntables are objects you can collect by gazing while going through the environment. The objective of this assignment is to recreate the behavior of the Huntable system:
 
