@@ -9,10 +9,10 @@ Huntables are objects you can collect by gazing while going through the environm
 - Analyse the following gif and list every other aspect of its behavior.
 - Make the fillable circle always visible (even behind objects in the scene)
 
+**The final deliverable can be a desktop or VR application (bonus point for the latter)**
+
 <video loop src="https://user-images.githubusercontent.com/108401755/176420758-575139c2-4394-4887-b59a-dfbadc1b3380.mov" controls="controls" style="max-width: 730px;">
 </video>
-
-The final deliverable can be a desktop or VR application (bonus point for the latter)
 
 ### Platform:
 Unity 3D
