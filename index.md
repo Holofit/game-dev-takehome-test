@@ -11,7 +11,7 @@ Huntables are objects you can collect by gazing while going through the environm
 
 
 
-<video src="https://user-images.githubusercontent.com/108401755/176420758-575139c2-4394-4887-b59a-dfbadc1b3380.mov" controls="controls" style="max-width: 730px;">
+<video loop src="https://user-images.githubusercontent.com/108401755/176420758-575139c2-4394-4887-b59a-dfbadc1b3380.mov" controls="controls" style="max-width: 730px;">
 </video>
 
 
